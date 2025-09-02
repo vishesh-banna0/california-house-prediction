@@ -19,7 +19,7 @@ env/
 
 # Dataset
 data/
-*.csv
+
 
 # System files
 .DS_Store

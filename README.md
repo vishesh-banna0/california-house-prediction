@@ -73,7 +73,7 @@ The pipeline includes:
 
 - The trained model (`my_california_housing_model.pkl`) is not included in this repo due to size limits.  
 - You can either train it yourself by running the notebook, or download the pre-trained model from here:  
-  [Google Drive Link](https://drive.google.com/file/d/19v_AiRapywL5w2X1sGDK9ivuFajgfybY/view?usp=drive_link) *(replace with your link)*  
+  [Google Drive Link](https://drive.google.com/file/d/19v_AiRapywL5w2X1sGDK9ivuFajgfybY/view?usp=drive_link) 
 
 ---
 
